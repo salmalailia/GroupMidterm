@@ -1,9 +1,9 @@
-# Group Member:
-## Salma Rahma Lailia 		(05111942000016)
-## Juan Carlos Tepanus Pardosi 	(05111942000017)
-## Farah Dhiah Qorirah 		(05111942000018)
+## Group Member:
+Salma Rahma Lailia 		(05111942000016)
 
+Juan Carlos Tepanus Pardosi 	(05111942000017)
 
+Farah Dhiah Qorirah 		(05111942000018)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
@@ -75,3 +75,19 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 https://stackbelowflow.000webhostapp.com/
 
 ## Website Features
+1.  Login
+2.  Logout
+3.  Registration
+4.  Search question
+5.  Create question
+6.  Route to submit reply to correspond question
+7.  View detail thread
+8.  View user all question
+9.  View user all answer
+10. Update user's question
+11. Delete user's question
+12. Create user’s reply
+13. Update user's reply
+14. Delete user’s reply
+15. My Profile
+16. Change Password
